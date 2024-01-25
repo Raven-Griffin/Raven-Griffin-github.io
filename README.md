@@ -1,2 +1,2 @@
-# Raven-Griffin-github.io
+# Raven-Griffin.github.io
 My GitHub Pages site
