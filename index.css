@@ -1,14 +1,16 @@
 /* Raven Griffin
 This is the css page for my title page */
-body{
+body {
     background-color: antiquewhite;
     color: black;
 }
-h1{
+
+h1 {
     text-align: center;
     border: 10px solid white;
 }
-h2{
+
+h2 {
 
     text-align: center;
     border: 10px dotted white;
@@ -16,39 +18,46 @@ h2{
     margin-left: 50pt;
     margin-right: 50pt;
 
-    
+
 }
-#image{
+
+#image {
     width: 280px;
 }
-p{
-    font-family: Georgia, Garamond, sans-serif;
-    font-size: 12pt;
-}
-.lp{
-    color: #A4A400;
-    text-decoration: underline;
-    font-family: Georgia, Garamond, sans-serif;
-    font-size: 12pt;
-    font-weight: normal;
-}
-#container{margin:0 auto; padding:1%; background-color: antiquewhite;
-    width: 100%; height: 100%;}
-    .dual-column {
-        width: 45%;
-        height: 90%;
-        text-align: center;
-    }
-    #dual-container{
-        height: 53%;
-        display: flex;
-        justify-content: space-between;
-    }
-    #title{
-        text-decoration: underline;
-        font-weight: bold;
-    }
-    #words{
-        text-align: left;
 
-    }
+p {
+    font-family: Georgia, Garamond, sans-serif;
+    font-size: 12pt;
+}
+
+
+
+#container {
+    margin: 0 auto;
+    padding: 1%;
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100%;
+}
+
+.dual-column {
+    width: 45%;
+    height: 90%;
+    text-align: center;
+}
+
+#dual-container {
+    height: 53%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#title {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#words {
+    text-align: left;
+
+}
