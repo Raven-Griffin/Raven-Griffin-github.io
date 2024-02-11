@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(250, 234, 252);
-    color: black;
+    background-color: rgba(162, 230, 136, 0.86);
+    color:black;
 }
 
+h1{
+    text-align: center;
+}
