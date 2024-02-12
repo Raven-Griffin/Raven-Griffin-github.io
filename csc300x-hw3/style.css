@@ -7,5 +7,10 @@ h1{
     text-align: center;
 }
 img{
-    size: 300px;
+    width: 200px;
+
+}
+div{
+    display: flex;
+    
 }
