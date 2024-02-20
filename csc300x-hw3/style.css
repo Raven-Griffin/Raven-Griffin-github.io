@@ -7,9 +7,14 @@ h1{
     text-align: center;
 }
 img{
-    width: 200px;
+    width: 300px;
 
 }
-.flex container{
-    fle
+.flex-container {
+    display: flex;
+    border-radius: 2px;
+    align-items: center;
+    flex-flow: row nowrap;
+    justify-content: center;
+    justify-content: space-evenly;
 }
